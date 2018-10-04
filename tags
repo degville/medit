@@ -1,0 +1,82 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ItemDelegate	/home/graham/build/medit/src/medit.cpp	/^        ItemDelegate()$/;"	f	class:ItemDelegate
+ItemDelegate	/home/graham/build/medit/src/medit.cpp	/^class ItemDelegate : public QItemDelegate$/;"	c	file:
+MEDIT_H	/home/graham/build/medit/src/medit.h	/^#define MEDIT_H$/;"	d
+MICRONPROGRAM_H	/home/graham/build/medit/src/micronprogram.h	/^#define MICRONPROGRAM_H$/;"	d
+QAction	/home/graham/build/medit/src/medit.h	/^class QAction;$/;"	x
+QMenu	/home/graham/build/medit/src/medit.h	/^class QMenu;$/;"	x
+QStandardItemModel	/home/graham/build/medit/src/medit.h	/^class QStandardItemModel;$/;"	x
+QTextEdit	/home/graham/build/medit/src/medit.h	/^class QTextEdit;$/;"	x
+QTreeView	/home/graham/build/medit/src/medit.h	/^class QTreeView;$/;"	x
+about	/home/graham/build/medit/src/medit.cpp	/^void medit::about()$/;"	f	class:medit
+about	/home/graham/build/medit/src/medit.h	/^      void about();$/;"	p	class:medit
+aboutAct	/home/graham/build/medit/src/medit.h	/^      QAction *aboutAct;$/;"	m	class:medit
+aboutQtAct	/home/graham/build/medit/src/medit.h	/^      QAction *aboutQtAct;$/;"	m	class:medit
+closeEvent	/home/graham/build/medit/src/medit.cpp	/^void medit::closeEvent(QCloseEvent *event)$/;"	f	class:medit
+closeEvent	/home/graham/build/medit/src/medit.h	/^      void closeEvent(QCloseEvent *event);$/;"	p	class:medit
+copyAct	/home/graham/build/medit/src/medit.h	/^      QAction *copyAct;$/;"	m	class:medit
+createActions	/home/graham/build/medit/src/medit.cpp	/^void medit::createActions()$/;"	f	class:medit
+createActions	/home/graham/build/medit/src/medit.h	/^      void createActions();$/;"	p	class:medit
+createMenus	/home/graham/build/medit/src/medit.cpp	/^void medit::createMenus()$/;"	f	class:medit
+createMenus	/home/graham/build/medit/src/medit.h	/^      void createMenus();$/;"	p	class:medit
+createStatusBar	/home/graham/build/medit/src/medit.cpp	/^void medit::createStatusBar()$/;"	f	class:medit
+createStatusBar	/home/graham/build/medit/src/medit.h	/^      void createStatusBar();$/;"	p	class:medit
+createToolBars	/home/graham/build/medit/src/medit.cpp	/^void medit::createToolBars()$/;"	f	class:medit
+createToolBars	/home/graham/build/medit/src/medit.h	/^      void createToolBars();$/;"	p	class:medit
+curFile	/home/graham/build/medit/src/medit.h	/^      QString curFile;$/;"	m	class:medit
+cutAct	/home/graham/build/medit/src/medit.h	/^      QAction *cutAct;$/;"	m	class:medit
+documentWasModified	/home/graham/build/medit/src/medit.cpp	/^void medit::documentWasModified()$/;"	f	class:medit
+documentWasModified	/home/graham/build/medit/src/medit.h	/^      void documentWasModified();$/;"	p	class:medit
+editMenu	/home/graham/build/medit/src/medit.h	/^      QMenu *editMenu;$/;"	m	class:medit
+editToolBar	/home/graham/build/medit/src/medit.h	/^      QToolBar *editToolBar;$/;"	m	class:medit
+exitAct	/home/graham/build/medit/src/medit.h	/^      QAction *exitAct;$/;"	m	class:medit
+fileMenu	/home/graham/build/medit/src/medit.h	/^      QMenu *fileMenu;$/;"	m	class:medit
+fileToolBar	/home/graham/build/medit/src/medit.h	/^      QToolBar *fileToolBar;$/;"	m	class:medit
+helpMenu	/home/graham/build/medit/src/medit.h	/^      QMenu *helpMenu;$/;"	m	class:medit
+loadFile	/home/graham/build/medit/src/medit.cpp	/^void medit::loadFile(const QString &fileName)$/;"	f	class:medit
+loadFile	/home/graham/build/medit/src/medit.h	/^      void loadFile(const QString &fileName);$/;"	p	class:medit
+main	/home/graham/build/medit/src/main.cpp	/^int main(int argc, char *argv[])$/;"	f
+maybeSave	/home/graham/build/medit/src/medit.cpp	/^bool medit::maybeSave()$/;"	f	class:medit
+maybeSave	/home/graham/build/medit/src/medit.h	/^      bool maybeSave();$/;"	p	class:medit
+medit	/home/graham/build/medit/src/medit.cpp	/^medit::medit()$/;"	f	class:medit
+medit	/home/graham/build/medit/src/medit.h	/^      medit();$/;"	p	class:medit
+medit	/home/graham/build/medit/src/medit.h	/^class medit:public QMainWindow$/;"	c
+micronProgram	/home/graham/build/medit/src/micronprogram.cpp	/^micronProgram::micronProgram()$/;"	f	class:micronProgram
+micronProgram	/home/graham/build/medit/src/micronprogram.h	/^    micronProgram();$/;"	p	class:micronProgram
+micronProgram	/home/graham/build/medit/src/micronprogram.h	/^class micronProgram{$/;"	c
+model	/home/graham/build/medit/src/medit.h	/^      QStandardItemModel *model;$/;"	m	class:medit
+newAct	/home/graham/build/medit/src/medit.h	/^      QAction *newAct;$/;"	m	class:medit
+newFile	/home/graham/build/medit/src/medit.cpp	/^void medit::newFile()$/;"	f	class:medit
+newFile	/home/graham/build/medit/src/medit.h	/^      void newFile();$/;"	p	class:medit
+open	/home/graham/build/medit/src/medit.cpp	/^void medit::open()$/;"	f	class:medit
+open	/home/graham/build/medit/src/medit.h	/^      void open();$/;"	p	class:medit
+openAct	/home/graham/build/medit/src/medit.h	/^      QAction *openAct;$/;"	m	class:medit
+pasteAct	/home/graham/build/medit/src/medit.h	/^      QAction *pasteAct;$/;"	m	class:medit
+readSettings	/home/graham/build/medit/src/medit.cpp	/^void medit::readSettings()$/;"	f	class:medit
+readSettings	/home/graham/build/medit/src/medit.h	/^      void readSettings();$/;"	p	class:medit
+save	/home/graham/build/medit/src/medit.cpp	/^bool medit::save()$/;"	f	class:medit
+save	/home/graham/build/medit/src/medit.h	/^      bool save();$/;"	p	class:medit
+saveAct	/home/graham/build/medit/src/medit.h	/^      QAction *saveAct;$/;"	m	class:medit
+saveAs	/home/graham/build/medit/src/medit.cpp	/^bool medit::saveAs()$/;"	f	class:medit
+saveAs	/home/graham/build/medit/src/medit.h	/^      bool saveAs();$/;"	p	class:medit
+saveAsAct	/home/graham/build/medit/src/medit.h	/^      QAction *saveAsAct;$/;"	m	class:medit
+saveFile	/home/graham/build/medit/src/medit.cpp	/^bool medit::saveFile(const QString &fileName)$/;"	f	class:medit
+saveFile	/home/graham/build/medit/src/medit.h	/^      bool saveFile(const QString &fileName);$/;"	p	class:medit
+setCurrentFile	/home/graham/build/medit/src/medit.cpp	/^void medit::setCurrentFile(const QString &fileName)$/;"	f	class:medit
+setCurrentFile	/home/graham/build/medit/src/medit.h	/^      void setCurrentFile(const QString &fileName);$/;"	p	class:medit
+sizeHint	/home/graham/build/medit/src/medit.cpp	/^        QSize sizeHint ( const QStyleOptionViewItem & option, const QModelIndex & index ) const $/;"	f	class:ItemDelegate
+strippedName	/home/graham/build/medit/src/medit.cpp	/^QString medit::strippedName(const QString &fullFileName)$/;"	f	class:medit
+strippedName	/home/graham/build/medit/src/medit.h	/^      QString strippedName(const QString &fullFileName);$/;"	p	class:medit
+textEdit	/home/graham/build/medit/src/medit.h	/^      QTextEdit *textEdit;$/;"	m	class:medit
+treeView	/home/graham/build/medit/src/medit.h	/^      QTreeView *treeView;$/;"	m	class:medit
+writeSettings	/home/graham/build/medit/src/medit.cpp	/^void medit::writeSettings()$/;"	f	class:medit
+writeSettings	/home/graham/build/medit/src/medit.h	/^      void writeSettings();$/;"	p	class:medit
+~medit	/home/graham/build/medit/src/medit.cpp	/^medit::~medit()$/;"	f	class:medit
+~medit	/home/graham/build/medit/src/medit.h	/^      ~medit();$/;"	p	class:medit
+~micronProgram	/home/graham/build/medit/src/micronprogram.cpp	/^micronProgram::~micronProgram()$/;"	f	class:micronProgram
+~micronProgram	/home/graham/build/medit/src/micronprogram.h	/^    ~micronProgram();$/;"	p	class:micronProgram
